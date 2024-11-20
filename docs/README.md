@@ -14,6 +14,14 @@ Este é um sistema simples de gerenciamento de estacionamento desenvolvido no se
 - **Java**: Linguagem de programação utilizada para a implementação do sistema.
 - **Swing**: Utilizado para a criação da interface gráfica (GUI), sem o uso de bibliotecas externas.
 
+## Configurações de Administração
+
+Para acessar a área de configurações e alterar a capacidade do estacionamento ou as tarifas, será necessário fazer login com as credenciais de administrador.
+
+Usuário: admin
+
+Senha: admin
+
 ## Como Usar
 
 1. **Compilar o código**:
