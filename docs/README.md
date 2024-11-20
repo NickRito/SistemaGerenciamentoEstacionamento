@@ -12,13 +12,20 @@ Este é um sistema simples de gerenciamento de estacionamento desenvolvido no se
 ## Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação utilizada para a implementação do sistema.
-- **Swing**: Utilizado para a criação da interface gráfica (GUI).
+- **Swing**: Utilizado para a criação da interface gráfica (GUI), sem o uso de bibliotecas externas.
 
 ## Como Usar
 
 1. **Compilar o código**:
 
-   Para compilar o código, basta executar o seguinte comando:
+   Para compilar o código, basta executar o seguinte comando na raiz do projeto (onde os arquivos `.java` estão localizados):
 
    ```bash
-   javac src/*.java
+   javac *.java
+
+2. **Executar o programa**:
+
+   Após compilar o código, execute o sistema rodando o arquivo Main.java com o seguinte comando:
+
+   ```bash
+   javac Main
