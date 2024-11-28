@@ -36,4 +36,4 @@ Senha: admin
    Após compilar o código, execute o sistema rodando o arquivo Main.java com o seguinte comando:
 
    ```bash
-   javac Main
+   java Main
